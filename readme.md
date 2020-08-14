@@ -16,6 +16,9 @@
 
 # NODE MODULES
   express
+  express-handlebars
+  handlebars
+  mysql
 
 
 #### Directory structure
